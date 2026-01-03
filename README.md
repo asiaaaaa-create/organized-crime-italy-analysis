@@ -21,5 +21,5 @@ To replicate the findings:
 
 ## License
 Data is distributed under **CC BY 4.0** (ISTAT).
-Analysis and presentation contents are licensed under **CC BY-NC-SA 4.0**.# organized-crime-italy-analysis
-Data analysis and datasets for the research on Organized Crime trends in Italy (2006-2023).
+Analysis and presentation contents are licensed under **CC BY-NC-SA 4.0**.
+Data analysis and datasets are for the research on Organized Crime trends in Italy (2006-2023).
